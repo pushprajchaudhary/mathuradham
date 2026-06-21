@@ -18,15 +18,15 @@ export const places: Place[] = [
       {
         name: 'Shri Krishna Janmabhoomi',
         icon: '🛕',
-        description: 'Bhagwan Krishna ka janm sthan — Mathura ka sabse pavitram sthal. Kara (prison cell) jahan Krishn ne janm liya, aaj bhi darshan yogya hai.',
-        summerTiming: '5:00 AM – 12:00 PM | 4:00 PM – 9:30 PM',
+        description: 'Bhagwan Krishna ka janm sthan — Mathura ka sabse pavitram sthal. Kara (prison cell) jahan Krishn ne janm liya, aaj bhi darshan yogya hai. Garbhagriha darshan lagatar — Bhagwat Bhawan 6:30 AM–1 PM | 4–9 PM.',
+        summerTiming: 'Garbhagriha: 6:30 AM – 9:00 PM (lagatar)',
         entryFee: 'Entry Free',
       },
       {
         name: 'Dwarkadhish Mandir',
         icon: '🛕',
         description: '1814 mein nirmiit yeh mandir Vishram Ghat ke paas hai. Swarnambari shikhar aur sundar murti darshan. Raj Bhog aarti ka samay bahut khas hota hai.',
-        summerTiming: '6:30 AM – 12:30 PM | 5:00 PM – 9:30 PM',
+        summerTiming: '6:30 AM – 11:00 AM | 4:00 PM – 7:30 PM',
         entryFee: 'Entry Free',
       },
       {
@@ -83,7 +83,7 @@ export const places: Place[] = [
         name: 'Banke Bihari Mandir',
         icon: '🛕',
         description: '1864 mein Swami Haridas ke bhakti ke fal swarup prakatt hue Banke Bihari ji. Curtain darshan ki parampara — har kuch minute baad parda girta hai. Festival mein crowd bahut hota hai, week days prefer karein.',
-        summerTiming: '7:30 AM – 12:00 PM | 5:30 PM – 9:30 PM',
+        summerTiming: '7:00 AM – 12:30 PM | 4:15 PM – 9:30 PM',
         winterTiming: '8:45 AM – 1:00 PM | 4:30 PM – 8:30 PM',
         entryFee: 'Entry Free',
       },
@@ -124,7 +124,7 @@ export const places: Place[] = [
       },
     ],
     infoItems: [
-      { label: 'Sabse Pehle Yahan Jayen', value: 'Banke Bihari (Subah)', note: '7:30–9 AM ke beech kam bheed hoti hai' },
+      { label: 'Sabse Pehle Yahan Jayen', value: 'Banke Bihari (Subah)', note: '7:00–9 AM ke beech kam bheed hoti hai' },
       { label: 'Sham ko Must-Do', value: 'Prem Mandir Light Show', note: '6:30 PM pahunch jayen — acchi jagah milegi' },
       { label: 'Rukne Ki Jagah', value: 'Prem Mandir Ke Paas', note: 'AC hotels ₹1,299/- se | Dharamshala ₹399/-' },
       { label: 'Dress Code', value: 'Salwar/Dhoti-Kurta', note: 'Shalini kapde zaroor pahnein — sanctum mein jootey nahi' },
